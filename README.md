@@ -1,4 +1,4 @@
-# IoT-PDDL
+# PDDL-Based AI Planning for Autonomous IoT Systems
 
 AI-planned IoT monitoring and automation. Instead of hardcoded `if temperature > 30: turn_on_fan()` rules, this system models the environment as a PDDL planning problem and lets the [Fast Downward](https://www.fast-downward.org/) planner decide which actions to take.
 
