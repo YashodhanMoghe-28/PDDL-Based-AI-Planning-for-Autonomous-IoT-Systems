@@ -111,13 +111,6 @@ Open `http://localhost:5000` (or your dashboard host) to watch it run.
 - Actions older than `MAX_ACTION_AGE_SECONDS` are dropped instead of applied, so a network hiccup can't replay a stale command.
 - Status LEDs and the LCD are recomputed from the full actuator state on every update, not toggled independently.
 
-## Roadmap
-
-- Mobile app
-- Cloud deployment / multi-node support
-- Predictive automation with ML
-- Docker packaging
-- Home Assistant integration
 
 ## Author
 
